@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "pbumqqti",
+    "password": "pas1n5g-gHLTK9ddAhgWCAX8OMy1xrWD",
+    "database": "pbumqqti",
+    "host": "kesavan.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "pbumqqti",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "pbumqqti",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
